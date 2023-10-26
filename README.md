@@ -5,3 +5,5 @@
 - One Clustering Model with K-means with silhouette score.
 
 - Data cleaning, processing and visualization.
+
+Max accuracy of 94%.
