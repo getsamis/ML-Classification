@@ -2,6 +2,6 @@
 
 - Three Classification Machine Learning models using the CART algorithm.
 
-- One Clustering Model with K-means for the UCI wine dataset.
+- One Clustering Model with K-means with silhouette score.
 
 - Data cleaning, processing and visualization.
